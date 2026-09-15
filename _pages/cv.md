@@ -37,7 +37,8 @@ Industry Experience
 
 ### jambit GmbH
 
-**Software Engineer** | 2022-2025
+**Software Engineer**<br>
+2022-2025
 
 - Developed and maintained four production systems supporting vehicle-data collection across Europe, the United States, and Canada for Volkswagen Group brands, including Audi, Porsche, Bentley, Volkswagen, and Lamborghini.
 - Improved performance and scalability across application code, distributed services, and database interactions for high-volume vehicle data.
@@ -45,21 +46,24 @@ Industry Experience
 
 ### Polixis
 
-**Java Developer** | 2021-2022
+**Java Developer**<br>
+2021-2022
 
 - Designed and developed a data-migration and streaming platform for transferring datasets of up to 64 GB across heterogeneous storage systems, including MongoDB, Elasticsearch, and ScyllaDB.
 - Built distributed data-transfer services using Java, Spring Boot, Kafka, Kafka Streams, Kafka Connect, PostgreSQL, Docker, and Kubernetes, with monitoring and real-time migration workflows.
 
 ### Soha Software Group
 
-**Java Developer** | 2020-2021
+**Java Developer**<br>
+2020-2021
 
 - Localized a push-notification platform by building and operating the required infrastructure in-house without relying on Google Firebase.
 - Developed distributed backend and integration services using Java, Spring Boot, Kafka, RabbitMQ, REST APIs, SQL databases, and containerized infrastructure.
 
-###  DPI (Ex-IBM)
+### DPI (Ex-IBM)
 
-**Junior Java Developer** | 2019-2020
+**Junior Java Developer**<br>
+2019-2020
 
 - Developed and maintained backend services for a CRM platform supporting approximately 400,000 active users.
 - Worked with Java, Spring Boot, IBM MQ, REST APIs, MySQL, deployment workflows, production reliability, and issue resolution.
