@@ -86,8 +86,6 @@ author:
 publication_category:
   accepted:
     title: 'Accepted Publications'
-  under_review:
-    title: 'Manuscripts Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

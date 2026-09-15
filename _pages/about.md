@@ -15,7 +15,6 @@ Research
 ======
 
 - **CypherLens:** An evaluation, diagnosis, and repair framework for natural-language-to-Cypher systems, including a tool-augmented agentic repair loop.
-- **CypherSem:** A graph-native semantic error taxonomy and evaluation framework for analyzing NL-to-Cypher errors.
 - **Learned indexes for graph databases:** An investigation of how learned indexing techniques can be adapted to graph databases and Neo4j query processing.
 
 Before beginning my Ph.D., I worked as a software engineer on production database and distributed systems in the automotive, data-integration, telecommunications, and banking domains.
