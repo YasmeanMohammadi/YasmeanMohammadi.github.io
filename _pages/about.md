@@ -19,6 +19,8 @@ Research
 
 Before beginning my Ph.D., I worked as a software engineer on production database and distributed systems in the automotive, data-integration, telecommunications, and banking domains.
 
+Outside of research, I enjoy painting in my free time; you can find some of my work in my [Portfolio](/portfolio/). I also have a cat who always tells me which task to work on next! :)
+
 News
 ======
 
