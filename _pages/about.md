@@ -17,7 +17,7 @@ Research
 - **CypherLens:** An evaluation, diagnosis, and repair framework for natural-language-to-Cypher systems, including a tool-augmented agentic repair loop.
 - **Learned indexes for graph databases:** An investigation of how learned indexing techniques can be adapted to graph databases and Neo4j query processing.
 
-Before beginning my Ph.D., I worked as a software engineer on production database and distributed systems in the automotive, data-integration, telecommunications, and banking domains.
+Before beginning my Ph.D., I worked as a software engineer on production database and distributed systems in the automotive, data-integration, and telecommunications.
 
 Outside of research, I enjoy painting in my free time; you can find some of my work in my [Portfolio](/portfolio/). I also have a cat who always tells me which task to work on next! :)
 
