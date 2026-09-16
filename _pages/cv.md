@@ -110,7 +110,7 @@ Research Projects
 Industry Experience
 ======
 
-### Jambit GmbH - Campaign Manager, DSSC1, DSSC2
+### Jambit GmbH
 
 **Software Engineer**<br>
 Yerevan, Armenia &middot; 2022-2025
@@ -119,7 +119,7 @@ Yerevan, Armenia &middot; 2022-2025
 - Developed and maintained a distributed microservice architecture comprising roughly ten cooperating services built with Java and Vert.x, with service coordination through Hazelcast, multithreaded processing, application-level caching, and high-volume database access.
 - Improved performance, scalability, and reliability under high request volumes and time-sensitive vehicle data, including cache-refresh logic, concurrent processing, database optimization, production incident diagnosis, and deployment and operations using PostgreSQL, Docker, Kubernetes, and AWS.
 
-### Polixis - Ardis
+### Polixis
 
 **Java Developer**<br>
 Yerevan, Armenia &middot; 2021-2022
@@ -128,7 +128,7 @@ Yerevan, Armenia &middot; 2021-2022
 - Built data-transfer and real-time migration services using Java, Spring Boot, Kafka, Kafka Streams, Kafka Connect, PostgreSQL, Docker, and Kubernetes.
 - Managed database changes across the software release lifecycle by identifying and capturing approved changes in development and test environments and promoting them through test, pre-production, and production stages.
 
-### Soha Software Group - Naira
+### Soha Software Group
 
 **Java Developer**<br>
 Tehran, Iran &middot; 2020-2021
