@@ -59,7 +59,7 @@ Under review, **VLDB 2027**.
 **Yasmin Mohammadi**, et al.<br>
 Under review, **KDD 2027**.
 
-Selected Research Projects
+Research Projects
 ======
 
 ### Learned Indexes for Graph Databases
@@ -90,6 +90,22 @@ Selected Research Projects
 - Developing a training-free continual learning framework that converts human and automated feedback into structured, reusable experiences that improve future synthetic-data generation without updating LLM parameters.
 - Building an experience lifecycle that compiles feedback into scoped semantic knowledge, then adds, updates, merges, rejects, and selectively retrieves experiences from an evolving memory to guide subsequent agents.
 - Evaluating whether experience accumulation improves expert-validated data quality and difficult-query coverage while reducing human supervision, with NL-to-Cypher as the primary testbed and transfer across domains and to NL-to-SQL.
+
+### Knowledge Graph Integration and Federation for Earth Science
+
+**Temple University**
+
+- Exploring automated integration of heterogeneous Earth-science knowledge graphs through schema and ontology alignment, entity resolution, vocabulary harmonization, and provenance-aware conflict resolution.
+- Studying the trade-offs between materializing a unified knowledge graph and preserving independent graphs under a federated query architecture that dynamically retrieves and combines information at query time.
+- Developing methods for high-precision semantic alignment while preserving source-specific information, provenance, and evolving scientific vocabularies.
+
+### KG-Grounded Scientific Information Extraction and Entity Resolution
+
+**Temple University**
+
+- Developing context-aware methods for extracting scientific entities and concepts from publications and grounding mentions to canonical entities in domain-specific vocabularies and knowledge graphs.
+- Exploring knowledge-graph context, ontology structure, and surrounding textual evidence for resolving ambiguous entity mentions, normalizing scientific terminology, and reducing incorrect entity matches.
+- Building a semantically grounded indexing pipeline that links extracted concepts to structured scientific knowledge, enabling more precise retrieval across publications, datasets, models, and domain terminology.
 
 Industry Experience
 ======
