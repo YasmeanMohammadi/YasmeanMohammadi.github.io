@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h2 style="margin-bottom: 0.4rem;">Yasmin (Zahra) Mohammadi</h2>
-  Philadelphia, PA &nbsp;|&nbsp; <a href="mailto:zm1384414@gmail.com">zm1384414@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/yasmin-mohammadi-4a41b5151">LinkedIn</a> &nbsp;|&nbsp; <a href="/">Website</a>
-</div>
-
 Research Interests
 ======
 
